@@ -17,3 +17,9 @@ This program runs on:
 - OnlineGDB
 - Replit
 - Any local Java compiler/IDE
+  
+## Compile 
+- javac DLList.java InfiniteInt.java PartialTesterInfiniteInt.java
+
+## Run
+- java PartialTesterInfiniteInt
